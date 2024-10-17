@@ -6,11 +6,11 @@ https://wings.msn.to/index.php/-/A-07/978-4-297-13288-0/
 
 
 
-Chapter 1 イントロダクション
-　1.1 JavaScriptとは？
-　　1.1.1 JavaScriptの歴史
-　　1.1.2 復権のきっかけはAjax、そしてHTML5の時代へ
-　　1.1.3 JavaScriptライブラリからフレームワークの時代へ
+Chapter 1 イントロダクション<br>
+　1.1 JavaScriptとは？<br>
+　　1.1.1 JavaScriptの歴史<br>
+　　1.1.2 復権のきっかけはAjax、そしてHTML5の時代へ<br>
+　　1.1.3 JavaScriptライブラリからフレームワークの時代へ<br>
 　1.2 標準JavaScript「ECMAScript」とは？
 　　1.2.1 ECMAScriptのバージョン
 　　1.2.2 ECMAScript 仕様策定の流れ
